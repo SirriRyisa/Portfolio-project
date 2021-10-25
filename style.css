@@ -1,0 +1,57 @@
+body{
+    background-color: grey;
+    font-family: sans-serif;
+}
+
+ul{
+        display: flex;
+        justify-content: flex-start;
+        gap: 15px;
+        padding: 30px 35px;
+        background-color: black;
+        color: white;
+        list-style-type: none;
+        margin: auto;
+        position: fixed;
+        padding-right: 190px;
+}
+
+#nav-li{
+    margin-left: 70rem;
+}
+
+#nav-li,
+     a{
+   color: white;
+   text-decoration: none;
+     }
+#welcome-section{
+    background-color: aquamarine;
+    height: 600px;
+    padding-top: 25%;
+    padding-right: 25%;
+    padding-left: 25%;
+    padding-bottom: 25%;
+    text-align: center;
+    font-size: 32px;
+    color: grey;
+}
+p{
+    color:pink;
+}
+
+#main{
+    background-color: grey;
+}
+h2{
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+    font-size: 40px;
+}
+
+#portfolio-img{
+    float: left;
+   width: 30%;
+   padding: 5px;
+}
