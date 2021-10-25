@@ -13,7 +13,7 @@ ul{
         list-style-type: none;
         margin: auto;
         position: fixed;
-        padding-right: 190px;
+        padding-right: 270px;
 }
 
 #nav-li{
@@ -37,7 +37,7 @@ ul{
     color: grey;
 }
 p{
-    color:pink;
+    color:rgb(235, 8, 46);
 }
 
 #main{
@@ -54,4 +54,6 @@ h2{
     float: left;
    width: 30%;
    padding: 5px;
+
 }
+
